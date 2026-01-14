@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="servicos.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+    
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+     <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Oitoc Dedetizadora</title>
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17708958622">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17708958622');
+</script>
+
+
+
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-17708958622/gHD2CPjZiLsbEJ6HpfxB',
+      'value': 1.0,
+      'currency': 'BRL'
+  });
+</script>
+
+
+</head>
+<body>
+ 
+
+
+<div class="header-container">
+  <header>
+    
+    <div class="top-header">
+      <div class="logo">
+        <img src="img/logo oitoc1.png" alt="Higitec Logo">
+      </div>
+      <div class="contacts">
+        
+        <div class="contact-group">
+          <span class="region">Atendemos em toda São Paulo</span>
+          <span class="phone"><i class="fa fa-phone"></i> 1194824-9592</span>
+        </div>
+
+        <div class="social-icons">
+  <a href="https://www.instagram.com/oitocdedetizadora/" target="_blank">
+    <img src="img/iconinstagram.png" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/oitocdedetizadora" target="_blank">
+    <img src="img/iconfacebook.png" alt="Facebook">
+  </a>
+</div>
+
+  <a href="https://wa.me/5511948249592" class="whatsapp-btn small">
+  Entre em Contato
+</a>
+
+  
+      </div>
+    </div>
+
+   
+    <nav class="main-nav">
+      <ul>
+          <li><a href="index.html">Inicio</a></li>
+        <li><a href="servicos.html">Nossos Serviços</a></li>
+        <li><a href="index.html#sobre">Sobre nós</a></li>
+        <li><a href="index.html#segmentos">Segmentos</a></li>
+        <li><a href="index.html#perguntas">Perguntas Frequentes</a></li>
+        <li><a href="index.html#contato">Contato</a></li>
+       
+        
+      </ul>
+    </nav>
+
+    
+    <div class="mobile-nav">
+      <div class="menu-btn" id="menuToggle">
+        <i class="fa fa-bars"></i>
+        <span>Todos os Serviços</span>
+      </div>
+
+    
+      <div class="mobile-menu" id="mobileMenu">
+        <ul>
+           <li><a href="index.html">Inicio</a></li>
+        <li><a href="servicos.html">Nossos Serviços</a></li>
+        <li><a href="index.html">Sobre nós</a></li>
+        <li><a href="index.html">Segmentos</a></li>
+        <li><a href="index.html">Perguntas Frequentes</a></li>
+        <li><a href="index.html/#form">Contato</a></li>
+         
+        </ul>
+         <a href="https://wa.me/5511948249592" class="whatsapp-btn small">
+  Entre em Contato
+</a>
+
+      </div>
+    </div>
+  </header>
+</div>
+
+
+
+
+
+<section class="hero" id="home">
+  <div class="hero-content">
+    <h1>Nossos<br><span>Serviços</span> <i class="fa fa-stopwatch"></i></h1>
+    <p class="call-text">Ligue agora mesmo!</p>
+
+   
+
+</section>
+
+<section class="servicos" id="serviços">
+  
+  <div class="card">
+    <img src="img/serviços1.png" alt="Desentupidora de Pia">
+    <button class="btn-saiba">Saiba mais</button>
+    <h3>Dedetização</h3>
+    <p>Combate eficaz contra baratas, formigas, moscas e outros insetos. Usamos técnicas seguras e produtos de baixa toxicidade para proteger sua casa ou empresa. Oferecemos um Controle de Pragas Preventivo e Inteligente.</p>
+   
+      <a href="https://wa.me/5511948249592" class="btn-chamar">
+  <img src="img/icon whatsapp.png" alt="Ícone WhatsApp">
+  Chamar agora
+</a>
+
+
+  </div>
+
+ 
+  <div class="card">
+    <img src="img/serviços2.png" alt="Desentupidora de Ralo">
+    <button class="btn-saiba">Saiba mais</button>
+    <h3>Desratização</h3>
+    <p>Roedores causam doenças e grandes danos. Nosso serviço de Desratização é focado na eliminação segura e na prevenção de novas infestações. Utilizamos caixas porta-iscas e monitoramento, garantindo a segurança de crianças e pets.
+
+Segurança total contra ratos. Fale com nossos especialistas!</p>
+    <a href="https://wa.me/5511948249592" class="btn-chamar">
+  <img src="img/icon whatsapp.png" alt="Ícone WhatsApp">
+  Chamar agora
+</a>
+  </div>
+
+  
+  <div class="card">
+    <img src="img/serviços3.png" alt="Desentupidora de Vasos Sanitários">
+    <button class="btn-saiba">Saiba mais</button>
+    <h3>Descupinização</h3>
+    <p>Proteja seu Patrimônio da Destruição.
+      <br>
+Cupins destroem sua estrutura e móveis silenciosamente. Oferecemos o tratamento ideal: barreira química, injeção e sistema de iscas para eliminar a colônia inteira (incluindo a rainha).
+
+Tratamento profissional para a longa vida do seu imóvel.</p>
+    <a href="https://wa.me/5511948249592" class="btn-chamar">
+  <img src="img/icon whatsapp.png" alt="Ícone WhatsApp">
+  Chamar agora
+</a>
+
+  </div>
+
+ 
+  <div class="card">
+    <img src="img/serviços4.png" alt="Desentupidora de Caixa de Gordura">
+    <button class="btn-saiba">Saiba mais</button>
+    <h3>Sanitização de ambientes</h3>
+    <p>Ar Puro e Superfícies Livres de Vírus
+Serviço essencial para combater micro-organismos invisíveis: vírus, bactérias, fungos e ácaros. A Sanitização alcança um nível de higiene que a limpeza comum não atinge, promovendo a biossegurança do seu espaço.
+
+Mais saúde para sua família e clientes. Garanta a máxima proteção!</p>
+    <a href="https://wa.me/5511948249592" class="btn-chamar">
+  <img src="img/icon whatsapp.png" alt="Ícone WhatsApp">
+  Chamar agora
+</a>
+  </div>
+
+ 
+  <div class="card">
+    <img src="img/serviços5.png" alt="Desentupidora de Esgoto">
+    <button class="btn-saiba">Saiba mais</button>
+    <h3>Controle de pragas em geral</h3>
+    <p>Não importa a praga, nós temos a solução. Nosso Manejo Integrado de Pragas (MIP) é um sistema inteligente que combina as melhores estratégias para um controle duradouro. Atendimento a residências, comércios e indústrias, com total conformidade legal.
+
+Resultados definitivos e duradouros contra qualquer infestação.</p>
+    <a href="https://wa.me/5511948249592" class="btn-chamar">
+  <img src="img/icon whatsapp.png" alt="Ícone WhatsApp">
+  Chamar agora
+</a>
+
+  </div>
+
+  
+  <div class="card">
+    <img src="img/serviços6.png" alt="Limpeza de Caixa d’Água">
+    <button class="btn-saiba">Saiba mais</button>
+    <h3>Nossos serviços são de confiança!</h3>
+    <p>Oferecemos soluções inovadoras e personalizadas, executadas por uma equipe qualificada. Nosso foco é garantir que você atinja seus objetivos com a máxima qualidade e o melhor suporte do mercado.
+
+Somos o parceiro que impulsiona o seu sucesso.</p>
+    <a href="https://wa.me/5511948249592" class="btn-chamar">
+  <img src="img/icon whatsapp.png" alt="Ícone WhatsApp">
+  Chamar agora
+</a>
+
+  </div>
+</section> 
+
+
+
+
+
+
+
+  <footer class="footer">
+  <div class="footer-container">
+    <div class="footer-logo">
+      <img src="img/logo oitoc1.png" alt="Oitoc Logo">
+      <p>Dedetizadora de Pragas em Geral</p>
+    </div>
+
+    <div class="footer-info">
+      <p><i class="fa-solid fa-location-dot"></i> Rua Luis Pasquale Netto 209 - São João Climaco</p>
+      <p><i class="fa-solid fa-envelope"></i> CNPJ: 24.565.879/0001-87</p>
+      <p><i class="fa-solid fa-phone"></i> (11) 94824-9592</p>
+    </div>
+
+    <!-- 🔹 ÍCONES DE REDES SOCIAIS -->
+    <div class="footer-social">
+      <a href="https://www.instagram.com/oitocdedetizadora/" target="_blank">
+        <img src="img/iconinstagram.png" alt="Instagram">
+      </a>
+      <a href="https://www.facebook.com/oitocdedetizadora" target="_blank">
+        <img src="img/iconfacebook.png" alt="Facebook">
+      </a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>©2025 COPYRIGHT – <strong>OITOC DEDETIZADORA</strong> – TODOS OS DIREITOS RESERVADOS</p>
+  </div>
+</footer>
+
+
+<script src="https://kit.fontawesome.com/a2e0e9b1e8.js" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+</body>
+</html>
