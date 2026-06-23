@@ -495,12 +495,6 @@ section {
 }
 
 
-
-
-
-
- 
-/* Animações de entrada do conteúdo */
 .hero-content {
   position: relative;
   z-index: 2;
@@ -519,16 +513,10 @@ section {
   }
 }
 
-/* Setas: mantidas do estilo anterior */
-/* ... */
-
-/* Responsividade: adaptações mobile */
 @media (max-width: 768px) {
   #hero h1 { font-size: 2.5rem; }
   #hero p { font-size: 1rem; }
 }
-
-
 
 
 #about {
@@ -645,7 +633,7 @@ section {
 
 
 .image-card:hover {
-  box-shadow: 0 0 15px 4px rgba(255, 174, 255, 0.6); /* brilho rosa claro */
+  box-shadow: 0 0 15px 4px rgba(255, 174, 255, 0.6); 
   transform: scale(1.01);
 }
 
@@ -791,9 +779,6 @@ section {
   color: #555;
   line-height: 1.5;
 }
-
-
-
 
 .galeria-carousel-container {
   text-align: center;
@@ -1036,8 +1021,6 @@ section {
   font-size: 0.9rem;
   color: #666;
 }
-
-
 
 .momentos-magicos {
   text-align: center;
@@ -1359,7 +1342,6 @@ button:hover {
   margin: 0 auto;
 }
 
-/* Box base */
 .box {
   background: white;
   border-radius: 20px;
@@ -1370,7 +1352,6 @@ button:hover {
   min-width: 500px;
 }
 
-/* Instagram */
 .instagram .topo {
   display: flex;
   align-items: center;
@@ -1453,8 +1434,6 @@ button:hover {
   color: #333;
 }
 
-
-/* Responsivo para telas pequenas (celulares) */
 @media (max-width: 768px) {
   .container-local {
     flex-direction: column;
