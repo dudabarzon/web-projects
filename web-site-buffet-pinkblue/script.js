@@ -236,7 +236,7 @@ function enviarWhatsApp() {
    Idade do Aniversariante: ${idade}
   Mensagem: ${mensagem}`;
 
-  const telefoneDestino = '5548992464707'; 
+  const telefoneDestino = '----------'; 
   window.open(`https://wa.me/${telefoneDestino}?text=${encodeURI(texto)}`, '_blank');
 }
 
